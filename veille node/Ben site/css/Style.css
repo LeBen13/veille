@@ -1,3 +1,7 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
 img{
     width:25%;
     height:25%;
@@ -15,6 +19,7 @@ header img{
 
 ul{
     list-style-type: none;
+    text-decoration: none;
     display: flex;
     justify-content: center;
 }
