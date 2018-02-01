@@ -2,8 +2,12 @@ img{
     width:25%;    
 }
 
-header img{
-    display:inline;
+header{
+     display:flex;
+    flex-flow: row; 
+}
+
+header img{   
     margin:auto;
     border: 1px solid black;
 }
