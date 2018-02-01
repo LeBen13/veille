@@ -2,14 +2,16 @@ img{
     width:25%;    
 }
 
-ul{
-    list-style-type: none;
-}
-
 header img{
     display:inline;
     margin:auto;
     border: 1px solid black;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
 }
 
 nav ul li{
